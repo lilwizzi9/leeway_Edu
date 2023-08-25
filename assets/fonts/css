@@ -1,0 +1,25 @@
+
+
+:root {
+    --gold_sub: #cc9933;
+    --gold: #D4AF37;
+    --black: black;
+    
+}
+
+
+
+body{
+    background-color:black !important;
+}
+
+
+.page-sidebar{
+    padding-top:0px !important;
+}
+
+
+
+
+
+

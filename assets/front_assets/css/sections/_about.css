@@ -1,0 +1,11 @@
+.Overlay {
+  background-image: -moz-linear-gradient(0deg, #e1006a 0%, #001460 100%);
+  background-image: -webkit-linear-gradient(0deg, #e1006a 0%, #001460 100%);
+  background-image: -ms-linear-gradient(0deg, #e1006a 0%, #001460 100%);
+  opacity: 0.902;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 869px;
+  z-index: 446; }

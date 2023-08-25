@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Master Coin</title>
+		<description><![CDATA[Master Coin converted to Joomla by Windstripe Themes]]></description>
+		<link>http://demo.joomlabuff.com/mastercoins/index.php/component/tags/tag/3</link>
+		<lastBuildDate>Mon, 28 Dec 2020 10:14:18 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.joomlabuff.com/mastercoins/index.php/component/tags/tag/finance?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Bitcoin and Crypto Technical Analysis for beginners.</title>
+			<link>http://demo.joomlabuff.com/mastercoins/index.php/blog-single-post/9-know-seven-crypto-trading-tips-common-mistakes-9</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/mastercoins/index.php/blog-single-post/9-know-seven-crypto-trading-tips-common-mistakes-9</guid>
+			<description><![CDATA[<p>Complete account of the system, expound the actual teachings of the great explorer of the truth master.</p>
+]]></description>
+			<category>Bitcoin and Crypto Technical Analysis for beginners.</category>
+			<pubDate>Mon, 07 Oct 2019 04:15:16 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
